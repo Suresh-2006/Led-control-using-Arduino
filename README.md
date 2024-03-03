@@ -59,8 +59,15 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
+![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/a9265a94-ee5c-4f4e-be06-67937194aece)
+
+
 ## PROGRAM
+![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/b352c9e4-33b1-4c07-a999-5cb1700e02ae)
 
 ## OUTPUT
 
+![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/97e35360-f008-4221-a5a3-d2ca5a316ff1)
+
 ## RESULT
+Thus, It is successfully programmed and executed.
