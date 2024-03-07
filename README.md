@@ -72,7 +72,8 @@ Weighing Machines </br>
 ![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/99c06b0e-40c7-40c6-a78a-bd27ed253031)
 
 ## LED ON
-![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/97e35360-f008-4221-a5a3-d2ca5a316ff1)
+![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/58fcd680-5c8c-470c-b086-03f2234528d7)
+
 
 ## RESULT
 Thus, It is successfully programmed and executed.
