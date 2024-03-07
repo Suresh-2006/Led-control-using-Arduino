@@ -59,7 +59,8 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/a9265a94-ee5c-4f4e-be06-67937194aece)
+![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/4d0b396d-2e5b-4f22-be9f-3f1d2abd2922)
+
 
 
 ## PROGRAM
@@ -67,6 +68,10 @@ Weighing Machines </br>
 
 ## OUTPUT
 
+## LED OFF
+![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/99c06b0e-40c7-40c6-a78a-bd27ed253031)
+
+## LED ON
 ![image](https://github.com/Suresh-2006/Led-control-using-Arduino/assets/149347611/97e35360-f008-4221-a5a3-d2ca5a316ff1)
 
 ## RESULT
